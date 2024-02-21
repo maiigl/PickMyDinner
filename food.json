@@ -1,0 +1,34 @@
+[
+    {
+    "name": "Wraps",
+    "zutaten": ["Wraps", "Fleischersatz", "Mais", "Bohnen", "Salat", "Gurken", "Zwiebeln", "Knoblauch", "Joghurtdip", "Ketchup", "Mayonnaise"],
+    "kalorien": 700,
+    "gesundScore": 3,
+    "heartwarmingScore": 4,
+    "zubereitungszeit": 15
+    },
+    {
+    "name": "Burger",
+    "zutaten": ["Buns", "Fleischersatz", "Käse", "Salat", "Gurken", "saure Gurken", "Zwiebeln", "Ketchup", "Mayonnaise"],
+    "kalorien": 1000,
+    "gesundScore": 1,
+    "heartwarmingScore": 5,
+    "zubereitungszeit": 15
+    },
+    {
+    "name": "Chilli con Carne (vegan)",
+    "zutaten": ["Bohnen", "Mais", "Tomaten", "Tomatenmark", "Kumin", "Fleischersatz", "Zwiebeln", "Knoblauch", "passierte Tomaten"],
+    "kalorien": 800,
+    "gesundScore": 4,
+    "heartwarmingScore": 3,
+    "zubereitungszeit": 45
+    },
+    {
+    "name": "Kartoffel-Blumenkohl Curry",
+    "zutaten": ["Kartoffeln", "Blumenkohl", "Kokosmilch", "Currypaste", "Kumin", "Kurkuma", "Zwiebeln", "Knoblauch", "Gemüsebrühe"],
+    "kalorien": 600,
+    "gesundScore": 5,
+    "heartwarmingScore": 3,
+    "zubereitungszeit": 60
+    },    
+]
