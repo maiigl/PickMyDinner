@@ -30,5 +30,13 @@
     "gesundScore": 5,
     "heartwarmingScore": 3,
     "zubereitungszeit": 60
-    },    
+    }, 
+    {
+    "name": "Röstkartoffeln mit Pilzsauce",
+    "zutaten": ["Kartoffeln", "Pilze", "Sahne", "Petersilie", "Mayonnaise", "Sojasauce", "Zwiebeln", "Knoblauch", "Spinar", "Hefeflocken", "Schnittlauch"],
+    "kalorien": 700,
+    "gesundScore": 3,
+    "heartwarmingScore": 4,
+    "zubereitungszeit": 45
+    },          
 ]
